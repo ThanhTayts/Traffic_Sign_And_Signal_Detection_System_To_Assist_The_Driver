@@ -17,6 +17,7 @@
             3. Màn hình TFT
             5. Loa
    ![image](https://user-images.githubusercontent.com/92384494/215694512-c3a60beb-a1ec-4bec-8417-c6d812847a12.png)
+   ![image](https://user-images.githubusercontent.com/92384494/215696425-a00fafa6-b0a7-4656-89da-75eb009c0c7d.png)
             
 #### - Quá trình hoạt động của hệ thống
    ![image](https://user-images.githubusercontent.com/92384494/215694715-5979b500-9ec9-4ade-8bd6-640a585abe17.png)
