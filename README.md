@@ -10,7 +10,7 @@
             1. OpenCV 4.5.5
             2. Numpy 1.2.4
             3. Tensorflow 2.3.0
-            4. YOLOv7 
+            4. YOLOv4 
           * Phần cứng
             1. Camera
             2. Jetson Nano B01
